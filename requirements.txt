@@ -20,3 +20,34 @@ python-dotenv>=1.0.0
 # pandas and numpy
 pandas>=1.5.0
 numpy>=1.24.0
+
+# Core LangChain
+langchain>=0.1.0
+
+# LangChain Community Modules
+langchain-community>=0.0.181
+
+# HuggingFace Embeddings
+transformers>=4.30.0
+torch>=2.1.0
+
+# Chroma Vector Store
+chromadb>=0.4.3
+
+# Ollama LLM Integration
+requests>=2.31.0
+
+# Utility
+python-dotenv>=1.0.0
+
+# pandas and numpy
+pandas>=1.5.0
+numpy>=1.24.0
+
+# Sentence Transformers
+sentence-transformers>=2.2.2
+
+# jq for Python
+jq>=2.6
+
+
