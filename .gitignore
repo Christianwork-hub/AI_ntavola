@@ -1,0 +1,17 @@
+# Python bytecode
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment variables
+.env
+
+# Vector database
+ricette_db/
+
+# Docker
+*.log
+*.pid
+
+# Virtual environment
+venv/

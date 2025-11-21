@@ -1,0 +1,607 @@
+[
+  {
+    "titolo": "Parmigiana di melanzane",
+    "ingredienti": [
+      "melanzane 1 kg",
+      "pomodori pelati 800 g",
+      "mozzarella 300 g",
+      "parmigiano 80 g",
+      "olio extravergine d'oliva 50 ml",
+      "sale q.b.",
+      "basilico 1 mazzetto",
+      "farina q.b.",
+      "uova 2"
+    ],
+    "procedimento": "Tagliare le melanzane a fette, infarinarle, friggerle o grigliarle, preparare il sugo con pomodori e basilico, alternare strati di melanzane, sugo e mozzarella, spolverare parmigiano e cuocere in forno 180°C per 30-35 min.",
+    "categoria": "secondo",
+    "descrizione": "Classica parmigiana italiana, saporita e filante."
+  },
+  {
+    "titolo": "Spaghetti al pomodoro e basilico",
+    "ingredienti": [
+      "spaghetti 400 g",
+      "pomodori pelati 500 g",
+      "aglio 1 spicchio",
+      "olio extravergine d'oliva 40 ml",
+      "basilico 1 mazzetto",
+      "sale q.b.",
+      "pepe q.b."
+    ],
+    "procedimento": "Rosolare aglio in olio, aggiungere pomodori, cuocere 15-20 min, aggiustare di sale, mantecare la pasta cotta al dente con il sugo e basilico fresco.",
+    "categoria": "primo",
+    "descrizione": "Semplice e veloce, perfetto per ogni giorno."
+  },
+  {
+    "titolo": "Risotto allo zafferano",
+    "ingredienti": [
+      "riso carnaroli 320 g",
+      "brodo vegetale 1.2 l",
+      "cipolla 1/2",
+      "burro 50 g",
+      "vino bianco 100 ml",
+      "zafferano 0.5 g",
+      "parmigiano 50 g",
+      "olio 1 cucchiaio",
+      "sale q.b."
+    ],
+    "procedimento": "Rosolare cipolla, tostare il riso, sfumare con vino, cuocere aggiungendo brodo poco a poco, sciogliere lo zafferano nel brodo, mantecare con burro e parmigiano.",
+    "categoria": "primo",
+    "descrizione": "Risotto cremoso al classico zafferano."
+  },
+  {
+    "titolo": "Caponata siciliana",
+    "ingredienti": [
+      "melanzane 800 g",
+      "pomodori 300 g",
+      "cipolla 1",
+      "sedano 2 coste",
+      "olive verdi 80 g",
+      "capperi 20 g",
+      "aceto 50 ml",
+      "zucchero 20 g",
+      "olio extravergine d'oliva 60 ml",
+      "sale q.b."
+    ],
+    "procedimento": "Friggere o stufare le melanzane, cuocere con cipolla e sedano, aggiungere pomodori, olive e capperi, sfumare con aceto e zucchero per un tocco agrodolce.",
+    "categoria": "contorno",
+    "descrizione": "Agnoscia agrodolce siciliana, ottima anche fredda."
+  },
+  {
+    "titolo": "Pasta alla Norma",
+    "ingredienti": [
+      "pasta corta 400 g",
+      "melanzane 600 g",
+      "pomodori pelati 500 g",
+      "ricotta salata 100 g",
+      "basilico 1 mazzetto",
+      "olio 40 ml",
+      "aglio 1 spicchio",
+      "sale q.b."
+    ],
+    "procedimento": "Friggere le melanzane, preparare un sugo semplice con pomodoro e aglio, unire la pasta al sugo e le melanzane, cospargere con ricotta salata grattugiata e basilico.",
+    "categoria": "primo",
+    "descrizione": "Piatto tradizionale siciliano, ricco e saporito."
+  },
+  {
+    "titolo": "Insalata Caprese",
+    "ingredienti": [
+      "pomodori 3",
+      "mozzarella 250 g",
+      "basilico foglie",
+      "olio extravergine d'oliva 20 ml",
+      "sale q.b.",
+      "pepe q.b."
+    ],
+    "procedimento": "Affettare pomodori e mozzarella, disporli alternati, condire con olio, sale, pepe e basilico fresco.",
+    "categoria": "antipasto",
+    "descrizione": "Fresca e leggera, ideale in estate."
+  },
+  {
+    "titolo": "Pollo al limone",
+    "ingredienti": [
+      "petto di pollo 600 g",
+      "limone 2",
+      "olio 30 ml",
+      "rosmarino 1 rametto",
+      "sale e pepe q.b."
+    ],
+    "procedimento": "Marinare il pollo con limone, olio e rosmarino, poi cuocere in padella o forno fino a doratura.",
+    "categoria": "secondo",
+    "descrizione": "Secondo semplice e leggero."
+  },
+  {
+    "titolo": "Bruschetta al pomodoro",
+    "ingredienti": [
+      "pane casareccio 4 fette",
+      "pomodori 2",
+      "aglio 1 spicchio",
+      "olio extravergine d'oliva 20 ml",
+      "basilico",
+      "sale q.b."
+    ],
+    "procedimento": "Tostare il pane, strofinare aglio, condire pomodori a cubetti con olio e basilico e mettere sul pane.",
+    "categoria": "antipasto",
+    "descrizione": "Classico antipasto italiano."
+  },
+  {
+    "titolo": "Gnocchi di patate al burro e salvia",
+    "ingredienti": [
+      "gnocchi 500 g",
+      "burro 60 g",
+      "salvia 8 foglie",
+      "parmigiano 50 g",
+      "sale q.b."
+    ],
+    "procedimento": "Cuocere gli gnocchi, saltarli nel burro fuso con salvia, servire con parmigiano.",
+    "categoria": "primo",
+    "descrizione": "Confort food semplice e veloce."
+  },
+  {
+    "titolo": "Melanzane alla pizzaiola",
+    "ingredienti": [
+      "melanzane 700 g",
+      "pomodori 400 g",
+      "origano q.b.",
+      "olio 30 ml",
+      "aglio 1 spicchio",
+      "sale q.b."
+    ],
+    "procedimento": "Saltare le melanzane a pezzi, aggiungere pomodori e origano, cuocere fino a consistenza morbida.",
+    "categoria": "contorno",
+    "descrizione": "Semplice, saporita, con gusto 'pizza'."
+  },
+  {
+    "titolo": "Carbonara",
+    "ingredienti": [
+      "spaghetti 400 g",
+      "guanciale 150 g",
+      "uova 4",
+      "pecorino romano 100 g",
+      "pepe nero q.b.",
+      "sale q.b."
+    ],
+    "procedimento": "Rosolare il guanciale a dadini, sbattere uova con pecorino e pepe, scolare la pasta e mantecarla fuori dal fuoco con il composto di uova e guanciale croccante.",
+    "categoria": "primo",
+    "descrizione": "Iconica pasta romana, cremosa e saporita."
+  },
+  {
+    "titolo": "Amatriciana",
+    "ingredienti": [
+      "bucatini 400 g",
+      "guanciale 150 g",
+      "pomodori pelati 400 g",
+      "pecorino romano 80 g",
+      "peperoncino 1",
+      "vino bianco 50 ml",
+      "sale q.b."
+    ],
+    "procedimento": "Rosolare guanciale, sfumare con vino, aggiungere pomodori e peperoncino, cuocere 15 min, mantecare la pasta con il sugo e pecorino.",
+    "categoria": "primo",
+    "descrizione": "Classico laziale dal sapore deciso."
+  },
+  {
+    "titolo": "Cacio e pepe",
+    "ingredienti": [
+      "spaghetti 400 g",
+      "pecorino romano 150 g",
+      "pepe nero in grani 2 cucchiaini",
+      "sale q.b."
+    ],
+    "procedimento": "Tostare il pepe, cuocere la pasta, mantecarla con acqua di cottura e pecorino grattugiato fino a crema liscia e setosa.",
+    "categoria": "primo",
+    "descrizione": "Semplicità romana per eccellenza."
+  },
+  {
+    "titolo": "Lasagne alla bolognese",
+    "ingredienti": [
+      "sfoglie lasagne 500 g",
+      "ragù bolognese 800 g",
+      "besciamella 600 ml",
+      "parmigiano 150 g",
+      "burro 30 g"
+    ],
+    "procedimento": "Alternare strati di pasta, ragù, besciamella e parmigiano, terminare con besciamella e parmigiano, cuocere in forno a 180°C per 30-40 min.",
+    "categoria": "primo",
+    "descrizione": "Piatto della domenica per eccellenza."
+  },
+  {
+    "titolo": "Risotto ai funghi porcini",
+    "ingredienti": [
+      "riso carnaroli 320 g",
+      "funghi porcini 300 g",
+      "brodo vegetale 1 l",
+      "cipolla 1/2",
+      "vino bianco 80 ml",
+      "burro 40 g",
+      "parmigiano 50 g",
+      "prezzemolo q.b.",
+      "sale q.b."
+    ],
+    "procedimento": "Rosolare cipolla, aggiungere funghi, tostare riso, sfumare con vino, cuocere con brodo, mantecare con burro, parmigiano e prezzemolo.",
+    "categoria": "primo",
+    "descrizione": "Risotto autunnale ricco e profumato."
+  },
+  {
+    "titolo": "Pasta al pesto genovese",
+    "ingredienti": [
+      "trofie 400 g",
+      "basilico 50 g",
+      "pinoli 30 g",
+      "aglio 1 spicchio",
+      "parmigiano 50 g",
+      "pecorino 30 g",
+      "olio extravergine d'oliva 100 ml",
+      "sale q.b."
+    ],
+    "procedimento": "Pestare basilico, pinoli, aglio e formaggi in mortaio o mixer, emulsionare con olio, allungare con acqua di cottura e mantecare con la pasta.",
+    "categoria": "primo",
+    "descrizione": "Profumo di Liguria in un piatto."
+  },
+  {
+    "titolo": "Pasta alle vongole",
+    "ingredienti": [
+      "spaghetti 400 g",
+      "vongole 1 kg",
+      "aglio 2 spicchi",
+      "prezzemolo 1 mazzetto",
+      "peperoncino 1",
+      "vino bianco 100 ml",
+      "olio 40 ml"
+    ],
+    "procedimento": "Far spurgare le vongole, rosolare aglio e peperoncino, aggiungere vongole e vino, far aprire, mantecare con la pasta e prezzemolo.",
+    "categoria": "primo",
+    "descrizione": "Sapore di mare napoletano."
+  },
+  {
+    "titolo": "Ossobuco alla milanese",
+    "ingredienti": [
+      "ossobuco 4 fette",
+      "farina q.b.",
+      "burro 50 g",
+      "vino bianco 150 ml",
+      "brodo 300 ml",
+      "pomodoro concentrato 2 cucchiai",
+      "cipolla 1",
+      "carota 1",
+      "sedano 1 costa",
+      "gremolata (prezzemolo, aglio, limone)",
+      "sale e pepe q.b."
+    ],
+    "procedimento": "Infarinare e rosolare l'ossobuco, aggiungere soffritto, sfumare con vino, aggiungere brodo e pomodoro, cuocere 2 ore a fuoco lento, servire con gremolata.",
+    "categoria": "secondo",
+    "descrizione": "Piatto lombardo ricco e sostanzioso."
+  },
+  {
+    "titolo": "Saltimbocca alla romana",
+    "ingredienti": [
+      "fettine di vitello 8",
+      "prosciutto crudo 8 fette",
+      "salvia 8 foglie",
+      "burro 40 g",
+      "vino bianco 100 ml",
+      "farina q.b.",
+      "sale e pepe q.b."
+    ],
+    "procedimento": "Adagiare prosciutto e salvia sulla carne, fissare con stuzzicadenti, infarinare, rosolare nel burro, sfumare con vino e servire con il fondo di cottura.",
+    "categoria": "secondo",
+    "descrizione": "Secondo veloce e saporito."
+  },
+  {
+    "titolo": "Vitello tonnato",
+    "ingredienti": [
+      "girello di vitello 800 g",
+      "tonno sott'olio 200 g",
+      "capperi 30 g",
+      "acciughe 4",
+      "maionese 200 g",
+      "succo di limone 1",
+      "brodo vegetale 500 ml",
+      "carota 1",
+      "sedano 1 costa",
+      "vino bianco 100 ml"
+    ],
+    "procedimento": "Cuocere il vitello nel brodo con verdure e vino, lasciare raffreddare, preparare salsa tonnata frullando tonno, capperi, acciughe e maionese, affettare la carne e ricoprire con la salsa.",
+    "categoria": "secondo",
+    "descrizione": "Classico piemontese estivo."
+  },
+  {
+    "titolo": "Polpette al sugo",
+    "ingredienti": [
+      "carne macinata 500 g",
+      "uova 1",
+      "pane raffermo 100 g",
+      "latte 100 ml",
+      "parmigiano 50 g",
+      "prezzemolo q.b.",
+      "aglio 1 spicchio",
+      "passata di pomodoro 500 g",
+      "olio 40 ml",
+      "sale e pepe q.b."
+    ],
+    "procedimento": "Ammollare il pane nel latte, impastare con carne, uovo, parmigiano e prezzemolo, formare polpette, rosolare, aggiungere passata e cuocere 30 min.",
+    "categoria": "secondo",
+    "descrizione": "Comfort food casalingo per eccellenza."
+  },
+  {
+    "titolo": "Arancini siciliani",
+    "ingredienti": [
+      "riso 500 g",
+      "ragù 300 g",
+      "piselli 100 g",
+      "mozzarella 150 g",
+      "uova 3",
+      "pangrattato 200 g",
+      "zafferano 0.3 g",
+      "parmigiano 50 g",
+      "olio per friggere",
+      "sale q.b."
+    ],
+    "procedimento": "Cuocere riso con zafferano, lasciare raffreddare, formare palline con ragù e mozzarella al centro, passare in uovo e pangrattato, friggere fino a doratura.",
+    "categoria": "antipasto",
+    "descrizione": "Street food siciliano iconico."
+  },
+  {
+    "titolo": "Supplì al telefono",
+    "ingredienti": [
+      "riso 400 g",
+      "ragù 250 g",
+      "mozzarella 200 g",
+      "uova 2",
+      "pangrattato 150 g",
+      "parmigiano 40 g",
+      "olio per friggere",
+      "sale q.b."
+    ],
+    "procedimento": "Cuocere riso con ragù, lasciare raffreddare, formare cilindri con mozzarella al centro, passare in uovo e pangrattato, friggere.",
+    "categoria": "antipasto",
+    "descrizione": "Specialità romana fritta e filante."
+  },
+  {
+    "titolo": "Focaccia genovese",
+    "ingredienti": [
+      "farina 500 g",
+      "acqua 300 ml",
+      "lievito di birra 12 g",
+      "olio extravergine d'oliva 80 ml",
+      "sale 10 g",
+      "sale grosso per superficie"
+    ],
+    "procedimento": "Impastare farina, acqua, lievito, olio e sale, lasciar lievitare 2 ore, stendere in teglia oleata, fare buchi con le dita, spennellare con olio e sale grosso, cuocere a 220°C per 20 min.",
+    "categoria": "antipasto",
+    "descrizione": "Focaccia ligure soffice e profumata."
+  },
+  {
+    "titolo": "Pizza Margherita",
+    "ingredienti": [
+      "impasto pizza 1 panetto",
+      "passata di pomodoro 200 g",
+      "mozzarella 200 g",
+      "basilico fresco",
+      "olio extravergine d'oliva 20 ml",
+      "sale q.b."
+    ],
+    "procedimento": "Stendere l'impasto, spalmare passata, aggiungere mozzarella a pezzi, infornare a 250°C per 10-12 min, guarnire con basilico e olio a crudo.",
+    "categoria": "primo",
+    "descrizione": "La pizza italiana per eccellenza."
+  },
+  {
+    "titolo": "Minestrone alla genovese",
+    "ingredienti": [
+      "patate 2",
+      "zucchine 2",
+      "carote 2",
+      "fagiolini 200 g",
+      "sedano 2 coste",
+      "cipolla 1",
+      "pomodori 2",
+      "pasta corta 100 g",
+      "pesto 3 cucchiai",
+      "brodo vegetale 1.5 l",
+      "olio 30 ml",
+      "sale q.b."
+    ],
+    "procedimento": "Soffriggere cipolla, aggiungere verdure a pezzi, coprire con brodo, cuocere 30 min, aggiungere pasta, mantecare con pesto prima di servire.",
+    "categoria": "primo",
+    "descrizione": "Minestra ricca e saporita."
+  },
+  {
+    "titolo": "Ribollita toscana",
+    "ingredienti": [
+      "cavolo nero 300 g",
+      "fagioli cannellini 300 g",
+      "pane toscano raffermo 200 g",
+      "pomodori pelati 400 g",
+      "carote 2",
+      "sedano 2 coste",
+      "cipolla 1",
+      "patate 2",
+      "olio extravergine d'oliva 50 ml",
+      "sale e pepe q.b."
+    ],
+    "procedimento": "Soffriggere verdure, aggiungere fagioli e pomodori, cuocere 40 min, aggiungere pane a pezzi e cavolo nero, far insaporire, servire con olio a crudo.",
+    "categoria": "primo",
+    "descrizione": "Zuppa toscana rustica e nutriente."
+  },
+  {
+    "titolo": "Pasta e fagioli",
+    "ingredienti": [
+      "fagioli borlotti 300 g",
+      "pasta mista 200 g",
+      "passata di pomodoro 200 g",
+      "sedano 1 costa",
+      "carota 1",
+      "cipolla 1",
+      "pancetta 50 g",
+      "olio 30 ml",
+      "rosmarino 1 rametto",
+      "sale e pepe q.b."
+    ],
+    "procedimento": "Soffriggere pancetta e verdure, aggiungere fagioli e passata, coprire con acqua, cuocere 40 min, aggiungere pasta e completare cottura.",
+    "categoria": "primo",
+    "descrizione": "Piatto povero sostanzioso e confortante."
+  },
+  {
+    "titolo": "Frittata di pasta",
+    "ingredienti": [
+      "pasta avanzata 300 g",
+      "uova 5",
+      "parmigiano 60 g",
+      "mozzarella 100 g",
+      "olio 30 ml",
+      "sale e pepe q.b."
+    ],
+    "procedimento": "Sbattere uova con parmigiano, sale e pepe, unire pasta e mozzarella a cubetti, cuocere in padella antiaderente da entrambi i lati.",
+    "categoria": "secondo",
+    "descrizione": "Riciclo creativo della pasta avanzata."
+  },
+  {
+    "titolo": "Torta salata con ricotta e spinaci",
+    "ingredienti": [
+      "pasta brisée 1 rotolo",
+      "ricotta 300 g",
+      "spinaci 400 g",
+      "uova 2",
+      "parmigiano 50 g",
+      "noce moscata q.b.",
+      "sale e pepe q.b."
+    ],
+    "procedimento": "Lessare e strizzare gli spinaci, mescolare con ricotta, uova, parmigiano e noce moscata, foderare una tortiera con la pasta, versare ripieno, coprire e cuocere a 180°C per 35 min.",
+    "categoria": "secondo",
+    "descrizione": "Torta rustica versatile e gustosa."
+  },
+  {
+    "titolo": "Peperonata",
+    "ingredienti": [
+      "peperoni 800 g",
+      "pomodori 300 g",
+      "cipolla 1",
+      "olio 40 ml",
+      "aceto 1 cucchiaio",
+      "basilico",
+      "sale q.b."
+    ],
+    "procedimento": "Tagliare peperoni a listarelle, rosolare cipolla, aggiungere peperoni, cuocere 10 min, unire pomodori, proseguire cottura 20 min, sfumare con aceto.",
+    "categoria": "contorno",
+    "descrizione": "Contorno estivo colorato e saporito."
+  },
+  {
+    "titolo": "Patate al forno",
+    "ingredienti": [
+      "patate 1 kg",
+      "rosmarino 2 rametti",
+      "aglio 3 spicchi",
+      "olio extravergine d'oliva 50 ml",
+      "sale grosso q.b."
+    ],
+    "procedimento": "Tagliare patate a spicchi, condire con olio, rosmarino, aglio e sale, disporre in teglia e cuocere a 200°C per 40-50 min girando a metà cottura.",
+    "categoria": "contorno",
+    "descrizione": "Contorno classico croccante fuori e morbido dentro."
+  },
+  {
+    "titolo": "Carciofi alla romana",
+    "ingredienti": [
+      "carciofi 6",
+      "mentuccia romana 1 mazzetto",
+      "aglio 2 spicchi",
+      "prezzemolo q.b.",
+      "olio extravergine d'oliva 60 ml",
+      "limone 1",
+      "sale e pepe q.b."
+    ],
+    "procedimento": "Pulire i carciofi, farcire con mentuccia, aglio e prezzemolo tritati, cuocere in padella con olio e acqua per 30-40 min a fuoco dolce.",
+    "categoria": "contorno",
+    "descrizione": "Preparazione romana delicata e profumata."
+  },
+  {
+    "titolo": "Zucchine alla scapece",
+    "ingredienti": [
+      "zucchine 800 g",
+      "aceto di vino bianco 100 ml",
+      "aglio 2 spicchi",
+      "menta fresca 1 mazzetto",
+      "olio per friggere",
+      "sale q.b."
+    ],
+    "procedimento": "Tagliare zucchine a rondelle, friggere, disporre a strati con aglio, menta e aceto, lasciar marinare almeno 2 ore prima di servire.",
+    "categoria": "contorno",
+    "descrizione": "Contorno napoletano in agrodolce."
+  },
+  {
+    "titolo": "Tiramisù",
+    "ingredienti": [
+      "savoiardi 300 g",
+      "mascarpone 500 g",
+      "uova 4",
+      "zucchero 100 g",
+      "caffè 300 ml",
+      "cacao amaro q.b.",
+      "marsala 2 cucchiai"
+    ],
+    "procedimento": "Montare tuorli con zucchero, aggiungere mascarpone, incorporare albumi montati a neve, inzuppare savoiardi nel caffè con marsala, alternare strati in pirofila, spolverare con cacao, riposare in frigo 4 ore.",
+    "categoria": "dolce",
+    "descrizione": "Dolce al cucchiaio italiano per eccellenza."
+  },
+  {
+    "titolo": "Panna cotta",
+    "ingredienti": [
+      "panna fresca 500 ml",
+      "zucchero 80 g",
+      "colla di pesce 8 g",
+      "vaniglia 1 bacca",
+      "coulis di frutti di bosco 200 g"
+    ],
+    "procedimento": "Scaldare panna con zucchero e vaniglia, aggiungere colla di pesce ammorbidita, versare in stampini, far solidificare in frigo 4 ore, servire con coulis.",
+    "categoria": "dolce",
+    "descrizione": "Dolce setoso e delicato piemontese."
+  },
+  {
+    "titolo": "Cannoli siciliani",
+    "ingredienti": [
+      "farina 250 g",
+      "zucchero 25 g",
+      "burro 25 g",
+      "vino marsala 80 ml",
+      "ricotta di pecora 500 g",
+      "zucchero a velo 150 g",
+      "gocce di cioccolato 50 g",
+      "canditi 30 g",
+      "pistacchi tritati q.b."
+    ],
+    "procedimento": "Preparare cialde con farina, zucchero, burro e marsala, friggere attorno a cannelli, farcire con ricotta setacciata mescolata a zucchero, cioccolato e canditi, decorare con pistacchi.",
+    "categoria": "dolce",
+    "descrizione": "Dolce siciliano croccante e cremoso."
+  },
+  {
+    "titolo": "Crostata alla marmellata",
+    "ingredienti": [
+      "farina 300 g",
+      "burro 150 g",
+      "zucchero 100 g",
+      "uova 2",
+      "lievito per dolci 1 bustina",
+      "scorza di limone 1",
+      "marmellata 300 g",
+      "sale 1 pizzico"
+    ],
+    "procedimento": "Impastare farina, burro, zucchero, uova, lievito e scorza, far riposare 30 min, stendere e foderare tortiera, versare marmellata, decorare con strisce di pasta, cuocere a 180°C per 35 min.",
+    "categoria": "dolce",
+    "descrizione": "Classico della tradizione casalinga."
+  },
+  {
+    "titolo": "Babà napoletano",
+    "ingredienti": [
+      "farina 250 g",
+      "lievito di birra 15 g",
+      "uova 4",
+      "burro 30 g",
+      "zucchero 20 g",
+      "sale 5 g",
+      "acqua 500 ml",
+      "zucchero per bagna 300 g",
+      "rum 100 ml"
+    ],
+    "procedimento": "Impastare farina, lievito, uova, burro e sale, far lievitare 2 ore, cuocere in stampini a 180°C per 20 min, preparare bagna con acqua, zucchero e rum, immergere i babà e far assorbire.",
+    "categoria": "dolce",
+    "descrizione": "Dolce soffice imbevuto napoletano."
+  }
+]
