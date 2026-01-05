@@ -11,7 +11,7 @@ Questo progetto permette di generare ricette personalizzate a partire da un data
 
 1. Clona il repository:
     ```bash
-    git clone https://github.com/tuo-username/ricette.git
+    git clone https://github.com/tuo-username/ricette.git](https://github.com/Christianwork-hub/AI_ntavola.git
     cd ricette
     ```
 
